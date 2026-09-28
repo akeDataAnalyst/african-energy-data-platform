@@ -1,4 +1,4 @@
-# Africa Energy Data Quality & Intelligence Platform
+# Energy Data Quality & Intelligence Platform
 
 An enterprise-grade data engineering, governance, and analytics platform designed to ingest, clean, validate, and score energy infrastructure statistics across African markets.
 
