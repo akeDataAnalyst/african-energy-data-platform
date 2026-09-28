@@ -1,0 +1,28 @@
+Check_Name,Target_Field,Issue_Count,Issue_Percentage,Status
+Missing Values,Area,0,0.0,PASS
+Missing Values,ISO 3 code,0,0.0,PASS
+Missing Values,Year,0,0.0,PASS
+Missing Values,Area type,0,0.0,PASS
+Missing Values,Electricity source,0,0.0,PASS
+Missing Values,Is aggregated source,0,0.0,PASS
+Missing Values,Generation (TWh),0,0.0,PASS
+Missing Values,Generation YoY change (TWh),922,4.01,PASS
+Missing Values,Generation YoY change (%),10841,47.18,WARNING
+Missing Values,Share of generation (%),34,0.15,PASS
+Missing Values,Share of generation YoY change (% points),956,4.16,PASS
+Missing Values,Capacity (GW),4478,19.49,PASS
+Missing Values,Emissions (MtCO2e),1381,6.01,PASS
+Missing Values,Emissions YoY change (MtCO2e),2248,9.78,PASS
+Missing Values,Emissions YoY change (%),13248,57.66,WARNING
+Missing Values,Share of emissions (%),1413,6.15,PASS
+Missing Values,Emissions intensity (gCO2e/kWh),11644,50.67,WARNING
+Missing Values,Continent,0,0.0,PASS
+Missing Values,Ember region,0,0.0,PASS
+Missing Values,EU member,0,0.0,PASS
+Missing Values,OECD member,0,0.0,PASS
+Missing Values,G20 member,0,0.0,PASS
+Missing Values,G7 member,0,0.0,PASS
+Missing Values,ASEAN member,0,0.0,PASS
+Missing Values,Has_Negative_Generation,0,0.0,PASS
+Negative Generation Anomaly,Generation (TWh),0,0.0,PASS
+Invalid ISO Code Format,ISO 3 code,0,0.0,PASS
