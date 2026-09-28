@@ -1,5 +1,7 @@
 # Energy Data Quality & Intelligence Platform
 
+* **[View Top 10 Country Quality Scores (Interactive HTML)](outputs/top_10_country_quality_scores.html)** *(Download or view locally to interact with the chart)*
+
 An enterprise-grade data engineering, governance, and analytics platform designed to ingest, clean, validate, and score energy infrastructure statistics across African markets.
 
 ---
